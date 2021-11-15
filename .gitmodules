@@ -1,0 +1,3 @@
+[submodule "Bayesian_Network_SDM"]
+	path = Bayesian_Network_SDM
+	url = git@github.com:davidyshen/Bayesian_Network_SDM.git
